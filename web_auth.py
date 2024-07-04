@@ -13,12 +13,11 @@ class IFRN_AUTENTICATOR:
     def __init__(self,login,password):
         self.login = login
         self.password = password
-        self.autenticate()
     
     def autenticate(self):
         logger.debug('Iniciando a Autenticação.')
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch(headless=True)
             page = browser.new_context(ignore_https_errors=True)
             page = page.new_page()
             page.goto(f'https://autenticacao-cnat.ifrn.local:6082/php/uid.php?vsys=1&rule=4')
@@ -66,6 +65,7 @@ class Timer:
             logger.debug(f'Esperando Timeout de {timeout} segundos terminar.')
 
             sleep(timeout)
+        logger.debug(f'Thread Finalizada')
 
     def stop_timer(self):
         logger.debug(f'Parando o Timer')
