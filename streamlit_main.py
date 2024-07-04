@@ -27,11 +27,5 @@ class Stream_app():
             if self.time_process.get('timer') == None:
                 self.time_process.update({'timer':Timer({'Login':login, 'Password':password})})
                 self.time_process.get('timer').start_timer()
-
-    #def __del__(self):
-    #    if self.time_process.get('timer') != None:
-    #        self.time_process.get('timer').stop_timer()
-    #        self.time_process.update({'timer': None})
-    #    sys.exit()
-
+                
 Stream_app().page()

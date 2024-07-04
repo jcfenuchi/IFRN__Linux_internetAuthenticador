@@ -60,23 +60,28 @@ class Timer:
                 logger.debug('Ping falhou, Iniciando autenticação.')
                 IFRN_AUTENTICATOR(self.data['Login'], self.data['Password']).autenticate()
 
-            with open('config.toml', 'r') as conf: config = load_toml(conf)
-            timeout = config.get('timeConfig').get('checkTimeout')
-            logger.debug(f'Esperando Timeout de {timeout} segundos terminar.')
+            try:
+                with open('config.toml', 'r') as conf: config = load_toml(conf)
+                timeout = config.get('timeConfig').get('checkTimeout')
+            except Exception as ex:
+                logger.warning(f'Error: {ex} \n60 seconds as set by default')
+                timeout = 60
 
-            sleep(timeout)
-        logger.debug(f'Thread Finalizada')
+            logger.debug(f'Esperando Timeout de {timeout} segundos terminar.')
+            for _ in range(1, timeout+1):
+                if self.event.is_set(): logger.debug('Event is set exiting of loop');break
+                sleep(1)
+
+        logger.debug('Thread Finalizada')
 
     def stop_timer(self):
-        logger.debug(f'Parando o Timer')
+        logger.debug('Parando o Timer')
         self.event.set()
 
 
 
 
-
-
-
+# you can run only put you login and password here
 if __name__ == '__main__':
     timer = Timer({'Login':'', 'Password': ''})
     timer.start_timer()
