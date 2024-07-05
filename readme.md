@@ -14,8 +14,8 @@ checkTimeout = 600
 
 # if you want create code as a process
 
-create file bellow in /etc/systemd/syste/ifrn_auth.service
-```toml
+create file bellow in /etc/systemd/system/ifrn_auth.service
+```yaml
 [Unit]
 Description=ifrn_auth service https://github.com/jcfenuchi/IFRN__Linux_internetAuthenticador
 After=network.target
@@ -39,10 +39,10 @@ WantedBy=multi-user.target
 use the comand to start a service!
 ```bash
 # start service
-service start ifrn_auth 
+service ifrn_auth start 
 
 # check status
-service status ifrn_auth
+service ifrn_auth status
 ```
 
 if status OK check https://localhost:PORT_SELECT_IN_MAIN_PY
