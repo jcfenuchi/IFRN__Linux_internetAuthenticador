@@ -1,0 +1,131 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://10.26.1.58:80
+
+2024-07-05 09:16:49.441 | DEBUG    | web_auth:start_timer:48 - Iniciando o Timer
+2024-07-05 09:16:49.446 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:16:50.612 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:16:50.613 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:21:51.286 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:21:52.383 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:21:52.386 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:26:53.136 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:26:54.207 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:26:54.208 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:31:54.731 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:31:55.805 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:31:55.807 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:36:56.271 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:36:57.349 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:36:57.351 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:41:57.979 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:41:59.057 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:41:59.064 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+  Stopping...
+2024-07-05 09:46:59.896 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:47:00.988 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:47:00.989 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:52:02.090 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:52:03.174 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:52:03.179 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 09:57:04.127 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 09:57:05.194 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 09:57:05.196 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:02:05.763 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:02:06.855 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:02:06.859 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:07:07.885 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:07:08.961 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:07:08.964 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:12:09.606 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:12:10.680 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:12:10.681 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:17:11.642 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:17:12.731 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:17:12.732 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:22:13.433 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:22:14.513 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:22:14.516 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:27:15.558 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:27:16.624 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:27:16.625 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:32:17.514 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:32:18.608 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:32:18.611 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:37:19.715 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:37:20.824 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:37:20.825 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:42:21.350 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:42:22.416 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:42:22.420 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:47:23.208 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:47:24.272 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:47:24.275 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:52:25.006 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:52:26.096 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:52:26.096 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 10:57:26.817 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 10:57:27.889 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 10:57:27.890 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:02:28.477 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:02:29.545 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:02:29.546 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:07:30.462 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:07:31.538 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:07:31.539 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:12:32.151 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:12:33.221 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:12:33.222 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:17:33.994 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:17:35.074 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:17:35.078 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:22:36.128 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:22:37.242 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:22:37.243 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:27:37.928 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:27:38.996 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:27:38.999 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:32:39.885 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:32:41.006 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:32:41.007 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:37:41.776 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:37:42.848 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:37:42.849 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:42:43.971 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:42:45.070 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:42:45.071 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:47:45.606 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:47:46.691 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:47:46.692 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:52:47.483 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:52:48.563 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:52:48.564 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 11:57:49.308 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 11:57:50.371 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 11:57:50.372 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:02:51.704 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:02:52.866 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:02:52.871 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:07:53.643 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:07:54.709 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:07:54.709 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:12:55.474 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:12:56.545 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:12:56.547 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:17:57.152 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:17:58.241 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:17:58.241 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:22:58.926 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:22:59.996 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:22:59.997 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:28:01.013 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:28:02.078 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:28:02.079 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:33:02.859 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:33:03.928 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:33:03.929 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
+2024-07-05 12:38:04.670 | DEBUG    | web_auth:timer_handle:55 - Iniciando Ping para google.com
+2024-07-05 12:38:05.734 | DEBUG    | web_auth:timer_handle:58 - Ping bem sucedido
+2024-07-05 12:38:05.735 | DEBUG    | web_auth:timer_handle:70 - Esperando Timeout de 300 segundos terminar.
