@@ -15,7 +15,7 @@ checkTimeout = 600
 # if you want create code as a process
 
 create file bellow in /etc/systemd/syste/ifrn_auth.service
-```toml
+```yaml
 [Unit]
 Description=ifrn_auth service https://github.com/jcfenuchi/IFRN__Linux_internetAuthenticador
 After=network.target
